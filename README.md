@@ -36,7 +36,8 @@ To help the store owner to track and analyze their online sales across India.
 - `Madhav_Ecommerce_Dashboard.pbix`
 - `Orders.csv`
 - `Details.csv`
-  
+
+![image alt](https://github.com/iamthebestintheworldanandyadav/PowerBi_Dashboard_Project/blob/2f9ac1bacccd784a6ffc7e219ef117b176a88924/screeshortpowerbi.png)
 
 
 ## Conclusion
